@@ -1,3 +1,9 @@
+## Clicky Game
+
+To be able to play the game [Click Here](https://ds3-clicky-game.herokuapp.com/).
+
+## Project Info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
